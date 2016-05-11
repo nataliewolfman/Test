@@ -1,0 +1,6 @@
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\w0lfen\Desktop\Наташа\SS\be-dev, c#\Task1\Task1\obj\Debug\Task1.pdb
